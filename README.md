@@ -25,7 +25,7 @@ pip install z-adapter
 
 From source:
 ```bash
-git clone https://github.com/znx-ai/z-adapter.git
+git clone https://github.com/rikzd/z-adapter.git
 cd z-adapter
 pip install -e .
 ```
@@ -137,4 +137,4 @@ MIT License
 
 ---
 
-> Built with 💜 by ZNX Team
+> Built by ZNX Team
