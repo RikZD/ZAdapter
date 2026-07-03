@@ -56,7 +56,7 @@ compatibility table are welcome — see `tests/test_compat.py`.
 From source (not yet on PyPI):
 
 ```bash
-git clone https://github.com/<your-username>/ZAdapter.git
+git clone https://github.com/rikzd/ZAdapter.git
 cd ZAdapter
 pip install -e .
 ```
